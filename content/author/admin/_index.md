@@ -19,7 +19,7 @@ organizations = [ { name = "Department of Aerospace Engineering, Indian Institut
 bio = "My research interests include fluid-structure interactions, computational fluid dynamics, structural dynamics, biomechanics, dynamical systems theory and scientific computing"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "krishnaavatar77@hotmail.com"
 
 # List (academic) interests or hobbies
 interests = [
