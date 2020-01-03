@@ -36,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "MTech in Aerospace Engineering"
   institution = "Indian Institute of Science"
-  year = 2019-
+  year = 2019
 
 [[education.courses]]
   course = "BEng in Aerospace Engineering"
