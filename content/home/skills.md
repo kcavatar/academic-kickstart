@@ -18,7 +18,7 @@ subtitle = ""
   icon = "orcid"
   icon_pack = "ai"
   name = "ORCID"
-  description = "90%"
+  description = "https://orcid.org/0000-0002-6775-2579"
   
 [[feature]]
   icon = "chart-line"
