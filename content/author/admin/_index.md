@@ -61,7 +61,7 @@ user_groups = ["Researchers", "Visitors"]
  [[social]]
   icon = "ORCID"
   icon_pack = "ai"
-  link = https://orcid.org/0000-0002-6775-2579
+  link = "https://orcid.org/0000-0002-6775-2579"
 
 [[social]]
   icon = "github"
