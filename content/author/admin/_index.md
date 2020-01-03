@@ -59,7 +59,7 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
  
  [[social]]
-  icon = "ORCID"
+  icon = "orcid"
   icon_pack = "ai"
   link = "https://orcid.org/0000-0002-6775-2579"
 
