@@ -24,8 +24,10 @@ email = "krishnaavatar77@hotmail.com"
 # List (academic) interests or hobbies
 interests = [
   "Fluid-structure interactions",
+  "Computational mechanics",
+  "Biomechanics",
   "Computational fluid dynamics",
-  "Scientific computing"
+  "Aeroelasticity"
 ]
 
 # Organizational groups that you belong to (for People widget)
