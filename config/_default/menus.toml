@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Blogs"
-  url = "kcavatar.wordpress.com"
+  url = "http://kcavatar.wordpress.com"
   weight = 50
 
 [[main]]
